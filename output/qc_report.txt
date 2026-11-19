@@ -1,0 +1,29 @@
+QC report
+========================================
+
+Rows in the entry sheet: 75
+Courses kept:            75
+Courses dropped:         0  (see output/dropped_courses.csv)
+
+Per discipline:
+  humanities       25
+  social_sciences  25
+  stem             25
+
+Courses with all five standard deviations: 75/75
+CourseTable columns come from the export, scope: ['all-time']
+
+Computed means against the figures OCE displays:
+  values compared: 375
+  largest difference: 0.0500  (0.05 is the rounding bound)
+  outside the rounding bound: 0
+
+Response counts, CourseTable against OCE: 75/75 identical
+
+Discipline, our area tags against OCE's primary division: 69/71 agree (4 not comparable)
+  EVST 3255: OCE says Sciences, area tag says social_sciences
+  NSCI 1600: OCE says Social Sciences, area tag says stem
+  ER&M 4021: OCE division 'Cross-Divisional' has no equivalent
+  CSSM 2300: OCE division 'Non-Departmental' has no equivalent
+  ECE 2000: OCE division nan has no equivalent
+  EPS 2740: OCE division nan has no equivalent

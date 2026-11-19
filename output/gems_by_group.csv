@@ -1,0 +1,7 @@
+grouping,group,courses,gems,gem_rate
+discipline,humanities,25,1,0.04
+discipline,social_sciences,25,2,0.08
+discipline,stem,25,1,0.04
+size_bin,lecture,10,0,0.0
+size_bin,mid,25,2,0.08
+size_bin,seminar,40,2,0.05

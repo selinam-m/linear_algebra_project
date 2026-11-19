@@ -1,0 +1,106 @@
+course_code,subject,number,title,discipline,professors,enrollment,n_responses,ct_rating,ct_professor,ct_workload,ct_scope,areas,course_id,role,order
+ENGL 3435,ENGL,3435,American Horror Stories,humanities,Brian Price,12,9,4.503535353535353,4.630553578592794,2.9972222222222222,all-time,Hu,250311467,sample,1
+HIST 3719,HIST,3719,Gender and Science,humanities,Deborah Coen,12,11,3.9333333333333336,3.8515151515151516,3.0,all-time,Hu,250311040,sample,2
+PHIL 2270,PHIL,2270,Epistemology,humanities,Daniel Greco,30,23,3.745429570429571,4.150402048287111,3.0521597919624237,all-time,Hu,250310111,sample,3
+MUSI 2240,MUSI,2240,The Performance of Early Music,humanities,Grant Herreid,30,20,4.552251317419701,4.564705107294438,1.7145632731461915,all-time,Hu,250311861,sample,4
+HIST 3388,HIST,3388,Slavery and the Slave Trade in Africa,humanities,Robert Harms,9,8,3.820825134461498,3.9387110227846183,2.5105011150465697,all-time,Hu,250311372,sample,5
+ITAL 4157,ITAL,4157,Italian through Opera and Film,humanities,Anna Iacovella,12,10,4.22952380952381,4.134923653344706,2.703333333333333,all-time,Hu,250310286,sample,6
+GMAN 0400,GMAN,0400,The Top Ten: Best Books of the 21st Century,humanities,Sophie Schweiger,18,16,4.8,4.592255892255892,2.533333333333333,all-time,Hu,250313079,sample,7
+ENGL 3846,ENGL,3846,Poetry and Faith,humanities,Christian Wiman,15,13,4.749468864468865,4.749468864468865,2.801611721611722,all-time,Hu,250311658,sample,8
+ART 3995,ART,3995,Junior Seminar,humanities,Ayham Ghraowi,15,13,3.59867859413314,4.041666666666667,2.4857642357642358,all-time,Hu,250311779,sample,9
+HIST 3216,HIST,3216,History of Food and Cuisine,humanities,Paul Freedman,15,13,4.497824969148499,4.253093514629945,2.8181372549019605,all-time,Hu,250312427,sample,10
+AMST 1184,AMST,1184,Approaches to Contemporary Biography: Writing and Reading Biography,humanities,Karin Roffman,13,8,4.775793650793651,4.565187193758622,3.912202380952381,all-time,Hu,250311680,sample,11
+HIST 3265,HIST,3265,Francis of Assisi and His Legacy,humanities,Carlos Eire,10,9,4.714285714285714,4.336441379708917,2.5714285714285716,all-time,Hu,250313600,sample,12
+CLCV 2501,CLCV,2501,The Roman Republic,humanities,Andrew Johnston,57,48,4.421733477651352,4.5480963627581925,3.6964352891126344,all-time,Hu,250312095,sample,13
+HIST 3179,HIST,3179,Scientific Instruments &  the History of Science,humanities,Paola Bertucci,14,10,3.583333333333333,3.9551454621767124,2.916666666666667,all-time,Hu,250314993,sample,14
+FILM 4270,FILM,4270,Noise,humanities,Brian Kane,16,12,3.8840909090909093,4.237713060932875,2.6334848484848488,all-time,Hu,250313767,sample,15
+ART 1621,ART,1621,Introduction to Sculpture: Metal,humanities,Lili Chin,10,8,4.616687280972996,4.125,3.3022907647907647,all-time,Hu,250311752,sample,16
+DEVN 2000,DEVN,2000,America at 250: A History,humanities,Beverly Gage; David Blight; Joanne Freeman,338,296,3.7916666666666665,4.321239160256366,3.042194092827004,all-time,Hu,250313337,sample,17
+ENGL 3501,ENGL,3501,Old English,humanities,Emily Thornbury,20,13,4.412801087801087,4.459287067099567,3.1976916246147016,all-time,Hu,250311636,sample,18
+SPAN 2200,SPAN,2200,"Cultural Inquiries: Spain, Latin America, and the Latinx World",humanities,Olivia Lott,16,14,4.564102564102565,4.6506410256410255,2.751831501831502,all-time,Hu,250310350,sample,19
+ENGL 0133,ENGL,0133,"Words, Words, Words: The Structure and History of English Words",humanities,Peter Grund,15,14,4.225198412698413,4.25453869047619,2.696067821067821,all-time,Hu,250311426,sample,20
+HIST 3742,HIST,3742,Queer Science,humanities,Juno Richards; Carlo Sariego,15,10,4.784188034188034,4.398184817234264,2.2207977207977208,all-time,Hu,250312940,sample,21
+ENGL 1028,ENGL,1028,Readings in Comparative World English Literatures,humanities,Lloyd Kevin Sy,18,15,4.288691120540966,4.550567686281972,3.2268861750639246,all-time,Hu,250311621,sample,22
+ER&M 4021,ER&M,4021,Indigenous Women and the Law in the Anglophone Empire,humanities,Tarren Andrews,10,9,5.0,4.699367088607595,3.2222222222222223,all-time,Hu,250312159,sample,23
+PHIL 4408,PHIL,4408,"The Ethics of Marx, Kierkegaard, and Nietzsche",humanities,Stephen Darwall,25,18,4.101648351648351,4.133635923860838,3.447802197802198,all-time,Hu,250310114,sample,24
+HSAR 4418,HSAR,4418,"Seeing, Describing, and Interpreting",humanities,Nicola Suthor,15,14,4.598412698412699,4.214055147750799,1.7242063492063493,all-time,Hu,250310906,sample,25
+HUMS 1400,HUMS,1400,The Hero in the Ancient Near East,humanities,Kathryn Slanski,10,8,3.3573862813984396,4.118773349244474,2.3806874328678838,all-time,Hu,250313252,backup,26
+ART 1514,ART,1514,Basic Drawing,humanities,Maria De Los Angeles,18,16,4.175716397145004,4.528368979505343,3.0048749510436816,all-time,Hu,250311727,backup,27
+HUMS 4501,HUMS,4501,Buddhist Thought: The Foundations,humanities,Eric Greene,140,112,4.004632739171618,4.329437653465683,2.1989795918367343,all-time,Hu,250312769,backup,28
+FREN 1700,FREN,1700,Introduction to Literatures in French,humanities,Constance Sherak,11,9,4.129723407905226,4.364049427938316,3.2933071221707584,all-time,Hu,250312061,backup,29
+HIST 1229,HIST,1229,"From Oligarchy to Democracy in Britain, 1780-1914",humanities,Stuart Semmel,24,20,4.051274651274651,4.002537960955903,2.754673721340388,all-time,Hu,250310239,backup,30
+AMST 1142,AMST,1142,Early American Studies for 21st-Century America,humanities,Greta LaFleur,18,17,4.4,4.34508547008547,2.875,all-time,Hu,250312462,backup,31
+CPLT 3180,CPLT,3180,Artificial Life: (Re)Production and the Limits of Humanity,humanities,Austen Hinkley,11,11,4.777777777777778,4.523535696329814,2.6666666666666665,all-time,Hu,250313785,backup,32
+WGSS 0032,WGSS,0032,History of Sexuality,humanities,Maria Trumpler,17,15,4.5567410938734465,4.268941988817575,2.704913439734868,all-time,Hu,250310361,backup,33
+CPLT 3450,CPLT,3450,Climate Change and the Humanities,humanities,Katja Lindskog,17,16,4.483259663130987,4.387374882495203,2.8819805194805195,all-time,Hu,250312912,backup,34
+CPLT 1680,CPLT,1680,Tragedy in the European Literary Tradition,humanities,Shane Vogel,14,11,4.277633232780292,4.51004329004329,3.3921167884403176,all-time,Hu,250311623,backup,35
+CSSM 2300,CSSM,2300,Public School Policy Reform in the United States,social_sciences,Nathan Dudley,18,16,4.552579365079365,4.552579365079365,2.8382936507936507,all-time,So,250313631,sample,1
+ECON 4407,ECON,4407,International Finance,social_sciences,Ana Fieler,34,32,3.7164252153193424,4.043240000692204,2.8551984270823354,all-time,So,250312237,sample,2
+ECON 2170,ECON,2170,Health Economics and Public Policy,social_sciences,Howard Forman,70,63,3.834954389950487,4.133634922177752,2.5199690196620574,all-time,So,250312232,sample,3
+SOCY 2009,SOCY,2009,The Sociological Imagination,social_sciences,Julia Adams,12,10,4.276867007672634,4.228217808862675,2.96071961393253,all-time,So,250310320,sample,4
+PLSC 3418,PLSC,3418,Democratic Backsliding,social_sciences,Milan Svolik,17,14,4.12037037037037,3.9347135482183204,3.2569444444444446,all-time,So,250314283,sample,5
+ANTH 0661,ANTH,0661,Understanding Human Origins,social_sciences,Jessica Thompson,14,11,3.7785714285714285,3.7428887598396536,2.5,all-time,So,250310879,sample,6
+ANTH 4855,ANTH,4855,Masculinity and Men’s Health,social_sciences,Marcia Inhorn,11,10,4.496308321308321,4.530721894634434,3.7732323232323233,all-time,So,250310842,sample,7
+AFST 4406,AFST,4406,Sexual Violence and War,social_sciences,Elisabeth Wood,14,10,4.55,4.091166378379576,3.9,all-time,So,250311385,sample,8
+ECON 4424,ECON,4424,Central Banking,social_sciences,William English,27,24,4.132217553688141,4.160071971372282,3.350930049482681,all-time,So,250312239,sample,9
+LING 2790,LING,2790,Morphology I,social_sciences,Jim Wood,14,14,4.357142857142857,4.305858652227442,2.5,all-time,So,250311731,sample,10
+PLSC 1327,PLSC,1327,Introduction to Political Philosophy,social_sciences,Giulia Oskian,69,55,3.3935211656413986,3.651618284951618,3.375736623238101,all-time,So,250312482,sample,11
+ECON 2135,ECON,2135,Introduction to Probability and Statistics,social_sciences,Yusuke Narita,27,26,2.7779233683360087,3.366445247162112,3.297514183996689,all-time,So,250312227,sample,12
+AFAM 1986,AFAM,1986,Contesting Injustice,social_sciences,Elisabeth Wood,26,20,3.3651158797505456,4.091166378379576,3.1430314428634696,all-time,So,250311562,sample,13
+ECON 4444,ECON,4444,Market Inefficiencies and the Limits of Arbitrage,social_sciences,Michael J Pascutti,38,32,4.13002454168215,4.1713544260197395,3.3380891959553285,all-time,So,250312243,sample,14
+EVST 3255,EVST,3255,Environmental Law and Politics,social_sciences,John Wargo,16,12,3.706372549019608,3.7226720464897984,2.6733919687277896,all-time,So,250311517,sample,15
+ECON 2125,ECON,2125,Microeconomic Theory,social_sciences,Mu Zhang,21,19,3.3548546454260495,4.0,3.471191225431118,all-time,So,250312226,sample,16
+LING 2630,LING,2630,Semantics I,social_sciences,Simon Charlow,29,25,3.726072378885678,4.336309523809524,2.9392002734108,all-time,So,250311699,sample,17
+NSCI 2600,NSCI,2600,Research Methods in Psychopathology: Psychotic Disorders,social_sciences,Tyrone Cannon,18,16,4.322222222222222,3.822191825302154,2.9797979797979797,all-time,So,250313682,sample,18
+ECON 2123,ECON,2123,Intermediate Data Analysis and Econometrics,social_sciences,Yusuke Narita,22,16,3.1815503754885026,3.366445247162112,3.7807156026804853,all-time,So,250312225,sample,19
+ANTH 4883,ANTH,4883,In Ordinary Fashion,social_sciences,Jane Lynch,15,9,4.457142857142856,4.3030792620078335,2.8523809523809525,all-time,So,250310888,sample,20
+PLSC 3511,PLSC,3511,AI for Social Science Methods,social_sciences,Daniel Karell,11,8,5.0,3.911841100076394,3.2857142857142856,all-time,So,250310796,sample,21
+CHLD 1250,CHLD,1250,Child Development,social_sciences,Carla Horwitz; Ann Close,16,16,4.360760878791569,4.350867299039054,2.6841494964257113,all-time,So,250311223,sample,22
+ANTH 3710,ANTH,3710,Anthropological Theory and the Post Colonial Encounter,social_sciences,Jane Lynch,12,11,4.313943001443001,4.3030792620078335,3.2922799422799423,all-time,So,250310887,sample,23
+ANTH 1700,ANTH,1700,An Introduction to Cultural Anthropology,social_sciences,Yukiko Koga,9,8,3.7706106489851012,4.0177721088435385,2.8381126195113184,all-time,So,250313072,sample,24
+ECON 2159,ECON,2159,Game Theory,social_sciences,Benjamin Polak,292,255,3.8302427335154485,4.104598784745067,3.0084757350121794,all-time,So,250312229,sample,25
+PLSC 2140,PLSC,2140,Immigration,social_sciences,Nicholas Sambanis,17,13,4.416666666666667,3.741875901875902,2.8333333333333335,all-time,So,250314816,backup,26
+EP&E 3217,EP&E,3217,Classics of EP&E–Intellectual Origins of Liberalism and Conservatism,social_sciences,Gregory Collins,19,16,4.426349206349206,4.229840613931523,3.637777777777778,all-time,So,250311544,backup,27
+PSYC 1400,PSYC,1400,Developmental Psychology,social_sciences,Julia Leonard,45,41,3.92293441526014,4.262098399417477,3.237230626249889,all-time,So,250311062,backup,28
+PLSC 3211,PLSC,3211,Congress in the Light of History,social_sciences,David Mayhew,17,16,4.346598639455783,4.19596396545167,2.9534013605442175,all-time,So,250311391,backup,29
+EVST 3394,EVST,3394,"Climate Change: Simple, Serious, and Solvable",social_sciences,A. Scott Denning,40,37,4.772468272468273,4.592052392052392,2.316703216374269,all-time,So,250311512,backup,30
+GLBL 4425,GLBL,4425,Atrocity Prevention,social_sciences,David Simon,20,20,4.142094017094017,3.8518515994508338,2.983974358974359,all-time,So,250310798,backup,31
+EP&E 4250,EP&E,4250,The European Union,social_sciences,David Cameron,17,13,3.943847741764409,3.8264261058350204,2.8985580777247444,all-time,So,250311374,backup,32
+ECON 2122,ECON,2122,Intermediate Macroeconomics,social_sciences,Fabrizio Zilibotti,55,49,3.182169436213126,3.6526483941215973,3.2746542561375405,all-time,So,250312219,backup,33
+AFAM 3615,AFAM,3615,Black Feminist Theory,social_sciences,Gail Lewis,14,13,4.769979435768909,4.696749084249085,2.6215153267784843,all-time,So,250310366,backup,34
+PSYC 2200,PSYC,2200,"Research Methods, Writing Intensive",social_sciences,Gabor Brody,16,16,3.8007086828515404,4.384615384615385,3.5977685013399303,all-time,So,250311088,backup,35
+ENAS 2170,ENAS,2170,Disruptive Technologies and Responsible Innovation,stem,Kathryn Guarini,178,156,4.0121822033898304,4.0121822033898304,2.5258620689655173,all-time,Sc,250313502,sample,1
+AMTH 2440,AMTH,2440,Discrete Mathematics,stem,Ivan Danilenko,71,61,3.568621238867786,3.290909090909091,3.433671091831452,all-time,,250310801,sample,2
+CPSC 4670,CPSC,4670,Introduction to Cryptography,stem,Charalampos Papamanthou,13,10,3.9642857142857144,3.8296103896103895,3.350446428571429,all-time,,250310175,sample,3
+ECE 2000,ECE,2000,Introduction to Electronics,stem,Jung Han,104,82,3.141019073830909,3.6631887639942216,3.6359512554342035,all-time,Sc,250312943,sample,4
+MATH 1180,MATH,1180,Introduction to Functions of Several Variables,stem,Cruz Godar,11,11,3.5447240996656513,3.5645933014354068,3.1205640095402156,all-time,,250310778,sample,5
+CPSC 4800,CPSC,4800,Introduction to Computer Vision,stem,Alex Wong,135,91,4.184670617976335,4.107912585839564,2.984486102133161,all-time,,250310181,sample,6
+CPSC 4270,CPSC,4270,"C++ Programming for Stability, Security, and Speed",stem,Michael Fischer; Jonathan Hochman,23,17,2.9354395604395602,3.473166746764222,2.730769230769231,all-time,,250314666,sample,7
+CHEM 1740,CHEM,1740,Organic Chemistry for First Year Students I,stem,Seth Herzon; Scott Miller,62,55,3.770089834683622,3.991210114286045,3.5946687179275654,all-time,Sc,250311261,sample,8
+ENAS 1180,ENAS,1180,"Introduction to Engineering, Innovation, and Design",stem,Lawrence Wilen,22,19,4.363282026798101,4.411638338286462,3.8258295093717654,all-time,Sc,250313616,sample,9
+NSCI 1600,NSCI,1600,The Human Brain,stem,Robb Rutledge,129,115,3.5172989143784523,3.8390296979006653,3.5897190479506063,all-time,Sc,250311086,sample,10
+MATH 3800,MATH,3800,Algebra,stem,Ivan Loseu,11,10,4.062439123376623,4.542207792207792,3.9304742876171446,all-time,,250310824,sample,11
+CPSC 4550,CPSC,4550,Algorithmic Game Theory,stem,Manolis Zampetakis,55,44,3.847583264074861,3.8804610553898975,3.5987569932501096,all-time,,250310364,sample,12
+MENG 4673,MENG,4673,Introduction to Nanomaterials and Nanotechnology,stem,Cong Su,18,9,3.860961538461538,4.3353174603174605,2.914589912003705,all-time,Sc,250312622,sample,13
+EEB 2220,EEB,2220,General Ecology,stem,David Post; Eric Slessarev,26,21,3.0519043093587954,3.9940383646491524,3.1913765228468614,all-time,Sc,250310190,sample,14
+PHYS 1800,PHYS,1800,University Physics,stem,Adriane Steinacker,122,90,3.4013968407080704,3.836072589525974,3.9396202676004024,all-time,Sc,250311252,sample,15
+APHY 4480,APHY,4480,Solid State Physics I,stem,Yu He,34,21,3.4580718387219935,3.941374269005848,3.516627305443095,all-time,Sc,250312764,sample,16
+CPSC 2010,CPSC,2010,Introduction to Computer Science,stem,Stephen Slade,157,136,3.4103536089785886,3.148715629210454,3.8221068197694583,all-time,,250310149,sample,17
+CPSC 4900,CPSC,4900,Senior Project,stem,Sohee Park,93,75,3.7235381564437096,3.39218309658603,3.593417335516154,all-time,,250310183,sample,18
+PHYS 0700,PHYS,0700,"Nuclear Physics: The Good, The Bad, and the Misunderstood",stem,Helen Caines,15,12,4.393939393939394,3.395060054272812,2.7727272727272725,all-time,Sc,250311229,sample,19
+PHYS 2060L,PHYS,2060L,Modern Physical Measurement,stem,Matthew Ennis; Steven Konezny; Gaurav Nirala,28,25,3.218176455632075,3.5411200348220837,3.189309647537687,all-time,Sc,250311272,sample,20
+BENG 4410,BENG,4410,Physical and Chemical Basis of Bioimaging and Biosensing,stem,Daniel Coman; Douglas Rothman; Jason Bini,36,15,3.438810154648664,3.572433922641723,2.9054834054834053,all-time,Sc,250310490,sample,21
+EPS 2740,EPS,2740,Fossil Fuels and World Energy,stem,Michael Oristaglio,192,166,3.78172257330594,3.8955077018847692,2.5392725304602144,all-time,Sc,250313975,sample,22
+MB&B 4490,MB&B,4490,Medical Impact of Basic Science,stem,Abhijit Patel; Allison Didychuk; Andrew Miranker; Daniel DiMaio; David Schatz; George Miller; Joan Steitz; Sandy Chang,17,15,4.283578620382026,4.001761257881583,3.187157961577466,all-time,Sc,250310460,sample,23
+CPSC 4370,CPSC,4370,Database Systems,stem,Avi Silberschatz,58,47,3.1490352926430782,3.1767983570736775,2.4394671590745167,all-time,,250313655,sample,24
+MCDB 4820,MCDB,4820,Advanced Seminar in Cell Biology: Intracellular Signal Transduction,stem,Craig Crews,11,10,4.80356240981241,4.181747891804161,3.630737433862434,all-time,Sc,250310732,sample,25
+CPSC 4590,CPSC,4590,Building Interactive Machines,stem,Marynel Vazquez,18,11,4.291272095959596,4.14503348093616,3.8900541317429616,all-time,,250310173,backup,26
+CPSC 4310,CPSC,4310,Computer Music: Algorithmic and Heuristic Composition,stem,Scott Petersen,14,8,3.447560139207198,3.7638502859091103,2.95620791626674,all-time,,250310163,backup,27
+NSCI 4490,NSCI,4490,Neuroscience of Social Interaction,stem,Steve Chang,15,13,4.025974025974026,4.167940560435287,2.784199134199134,all-time,Sc,250311077,backup,28
+S&DS 3650,S&DS,3650,Intermediate Machine Learning,stem,John Lafferty,177,139,3.986864697599784,3.963097504018768,3.8512308153062866,all-time,,250310646,backup,29
+CHEM 4240,CHEM,4240,Chemical Biology of Drug Discovery,stem,David Spiegel,21,9,2.8229166666666665,3.4127571942369834,2.6770833333333335,all-time,Sc,250312517,backup,30
+MATH 4400,MATH,4400,Introduction to Algebraic Geometry,stem,Junliang Shen,16,12,3.679594017094017,4.645833333333334,3.269318181818182,all-time,,250310828,backup,31
+ASTR 1100,ASTR,1100,Planets and Stars,stem,Michael Faison,30,28,3.0431697051941624,3.4375893098814427,3.022541998432045,all-time,Sc,250310875,backup,32
+PHYS 4100,PHYS,4100,Classical Mechanics,stem,Nikhil Padmanabhan,63,57,3.963906460897068,3.8746304402296206,3.570687558026856,all-time,Sc,250311282,backup,33
+MATH 3300,MATH,3300,Advanced Probability,stem,Shuangping Li,38,36,4.0738708519754265,4.294117647058823,3.797026019248241,all-time,,250310648,backup,34
+MCDB 2020,MCDB,2020,Genetics,stem,Josh Gendron; Stephen Dellaporta,105,93,3.2342126171329033,3.56383889448721,2.9530082752531603,all-time,Sc,250310709,backup,35

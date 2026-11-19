@@ -1,0 +1,76 @@
+course_code,title,professors,entered_by,q4_mean,q5_mean,q6_mean,q7_mean,q8_mean,q4_sd,q5_sd,q6_sd,q7_sd,q8_sd,notes,oce_division,oce_responded,oce_enrolled,q4_n,q5_n,q6_n,q7_n,q8_n
+ENGL 3435,American Horror Stories,Brian Price,oce,4.7778,4.7778,4.4444,3.0,2.8889,0.6667,0.441,1.0138,0.7071,0.6009,,Humanities,9.0,12,9,9,9,9,9
+HIST 3719,Gender and Science,Deborah Coen,oce,3.5,4.1,3.9,3.3,3.2,1.1785,1.1005,0.9944,0.8233,1.0328,,Humanities,11.0,12,10,10,10,10,10
+PHIL 2270,Epistemology,Daniel Greco,oce,3.65,4.0,3.8,3.4737,3.1053,1.1367,1.1239,1.2397,0.8412,0.8753,,Humanities,23.0,30,20,20,20,19,19
+MUSI 2240,The Performance of Early Music,Grant Herreid,oce,4.5625,4.4667,3.7692,1.7333,1.5,0.7274,0.5164,0.8321,0.7988,0.6325,,Humanities,20.0,30,16,15,13,15,16
+HIST 3388,Slavery and the Slave Trade in Africa,Robert Harms,oce,3.7143,3.8571,3.1429,2.8571,2.8571,0.9512,0.6901,0.8997,0.8997,1.069,,Humanities,8.0,9,7,7,7,7,7
+ITAL 4157,Italian through Opera and Film,Anna Iacovella,oce,4.5,4.7143,4.8571,2.5714,2.5714,0.9258,0.488,0.378,0.5345,0.9759,,Humanities,10.0,12,8,7,7,7,7
+GMAN 0400,The Top Ten: Best Books of the 21st Century,Sophie Schweiger,oce,4.8,4.7333,4.2667,3.1333,2.5333,0.5606,0.4577,0.8837,0.7432,0.6399,,Humanities,16.0,18,15,15,15,15,15
+ENGL 3846,Poetry and Faith,Christian Wiman,oce,4.6667,4.75,4.1667,3.6667,2.5833,0.6513,0.4523,0.7177,0.6513,0.793,,Humanities,13.0,15,12,12,12,12,12
+ART 3995,Junior Seminar,Ayham Ghraowi,oce,3.6667,4.1667,4.25,3.0,2.3333,1.2309,1.0299,1.1382,0.7385,0.6513,,Humanities,13.0,15,12,12,12,12,12
+HIST 3216,History of Food and Cuisine,Paul Freedman,oce,4.9091,4.7273,4.8182,3.3636,3.0,0.3015,0.6467,0.4045,0.6742,0.7746,,Humanities,13.0,15,11,11,11,11,11
+AMST 1184,Approaches to Contemporary Biography: Writing and Reading Biography,Karin Roffman,oce,5.0,5.0,5.0,3.75,4.125,0.0,0.0,0.0,1.0351,0.8345,,Humanities,8.0,13,8,8,8,8,8
+HIST 3265,Francis of Assisi and His Legacy,Carlos Eire,oce,4.7143,4.8571,4.7143,3.4286,2.5714,0.488,0.378,0.7559,0.5345,0.9759,,Humanities,9.0,10,7,7,7,7,7
+CLCV 2501,The Roman Republic,Andrew Johnston,oce,4.275,4.3947,4.0,3.5135,3.8421,0.8767,0.8233,1.1547,0.7311,0.8551,,Humanities,48.0,57,40,38,37,37,38
+HIST 3179,Scientific Instruments &  the History of Science,Paola Bertucci,oce,4.0,3.875,3.5,3.375,3.0,1.069,0.8345,0.9258,0.5175,0.0,,Humanities,10.0,14,8,8,8,8,8
+FILM 4270,Noise,Brian Kane,oce,3.5,4.0,2.3636,3.2,2.3,0.7071,0.0,0.809,0.6325,0.9487,,Humanities,12.0,16,10,9,11,10,10
+ART 1621,Introduction to Sculpture: Metal,Lili Chin,oce,4.125,4.125,3.875,3.25,4.0,0.8345,0.6409,1.3562,1.3887,0.5345,,Humanities,8.0,10,8,8,8,8,8
+DEVN 2000,America at 250: A History,Beverly Gage; David Blight; Joanne Freeman,oce,3.7917,3.8263,3.6667,2.9367,3.0422,1.0854,0.9804,1.134,0.7758,0.7854,,Humanities,296.0,338,240,236,240,237,237
+ENGL 3501,Old English,Emily Thornbury,oce,4.7692,4.6154,4.7692,4.0769,3.7692,0.4385,0.5064,0.4385,0.4935,0.4385,,Humanities,13.0,20,13,13,13,13,13
+SPAN 2200,"Cultural Inquiries: Spain, Latin America, and the Latinx World",Olivia Lott,oce,4.3333,4.6667,4.5833,3.0,2.75,0.9847,0.4924,0.6686,0.603,0.4523,,Humanities,14.0,16,12,12,12,12,12
+ENGL 0133,"Words, Words, Words: The Structure and History of English Words",Peter Grund,oce,4.4286,4.6429,4.5714,3.0714,2.6429,0.8516,0.6333,0.5136,0.6157,0.6333,,Humanities,14.0,15,14,14,14,14,14
+HIST 3742,Queer Science,Juno Richards; Carlo Sariego,oce,4.6667,4.5,4.3333,2.7778,2.1111,0.7071,0.5345,0.7071,0.9718,0.7817,,Humanities,10.0,15,9,8,9,9,9
+ENGL 1028,Readings in Comparative World English Literatures,Lloyd Kevin Sy,oce,4.2857,4.5,4.7143,3.3571,2.8571,0.9945,0.7596,0.6112,0.6333,0.663,,Humanities,15.0,18,14,14,14,14,14
+ER&M 4021,Indigenous Women and the Law in the Anglophone Empire,Tarren Andrews,oce,5.0,4.8889,4.5556,3.7778,3.2222,0.0,0.3333,0.527,0.441,0.6667,,Cross-Divisional,9.0,10,9,9,9,9,9
+PHIL 4408,"The Ethics of Marx, Kierkegaard, and Nietzsche",Stephen Darwall,oce,4.3571,4.2308,4.0,3.5714,3.3571,0.7449,0.725,0.9608,0.6462,0.6333,,Humanities,18.0,25,14,13,14,14,14
+HSAR 4418,"Seeing, Describing, and Interpreting",Nicola Suthor,oce,4.3333,4.0,4.1667,2.4167,1.25,0.7785,0.8528,1.3371,0.6686,0.4523,,Humanities,14.0,15,12,12,12,12,12
+CSSM 2300,Public School Policy Reform in the United States,Nathan Dudley,oce,4.6667,4.6667,4.8667,3.1333,2.6667,0.8165,0.8165,0.3519,0.6399,0.488,,Non-Departmental,16.0,18,15,15,15,15,15
+ECON 4407,International Finance,Ana Fieler,oce,4.1154,4.1923,4.1538,3.5,2.8077,0.9089,0.801,0.7845,0.9055,0.801,,Social Sciences,32.0,34,26,26,26,26,26
+ECON 2170,Health Economics and Public Policy,Howard Forman,oce,4.1778,4.1333,3.6977,3.0889,2.5581,0.9364,1.0357,1.0359,0.7331,0.7654,,Social Sciences,63.0,70,45,45,43,45,43
+SOCY 2009,The Sociological Imagination,Julia Adams,oce,4.5,4.375,3.625,3.25,2.875,0.7559,0.744,1.1877,0.7071,0.6409,,Social Sciences,10.0,12,8,8,8,8,8
+PLSC 3418,Democratic Backsliding,Milan Svolik,oce,4.2222,4.0,3.8889,3.8889,2.875,0.6667,0.7071,0.6009,0.3333,0.3536,,Social Sciences,14.0,17,9,9,9,9,8
+ANTH 0661,Understanding Human Origins,Jessica Thompson,oce,3.7143,4.0,4.4286,3.1429,2.7143,1.2536,1.0,0.5345,0.6901,0.488,,Social Sciences,11.0,14,7,7,7,7,7
+ANTH 4855,Masculinity and Men’s Health,Marcia Inhorn,oce,4.4444,4.7778,4.6667,3.4444,3.4444,0.7265,0.441,0.7071,0.527,0.7265,,Social Sciences,10.0,11,9,9,9,9,9
+AFST 4406,Sexual Violence and War,Elisabeth Wood,oce,5.0,4.8,4.7,4.0,3.7,0.0,0.4216,0.6749,0.4714,0.6749,,Social Sciences,10.0,14,10,10,10,10,10
+ECON 4424,Central Banking,William English,oce,4.6667,4.7778,4.4211,3.5263,3.4211,0.5941,0.4278,0.7685,0.6967,0.6925,,Social Sciences,24.0,27,18,18,19,19,19
+LING 2790,Morphology I,Jim Wood,oce,4.3571,4.6429,4.6429,2.8571,2.5,0.6333,0.6333,0.6333,0.8644,0.6504,,Social Sciences,14.0,14,14,14,14,14,14
+PLSC 1327,Introduction to Political Philosophy,Giulia Oskian,oce,3.3659,3.7436,4.2683,3.4286,3.3571,0.9422,0.9095,0.8951,0.8874,0.7908,,Social Sciences,55.0,69,41,39,41,42,42
+ECON 2135,Introduction to Probability and Statistics,Yusuke Narita,oce,2.4783,3.0455,3.0455,3.5,3.0476,1.2746,1.0901,1.1329,0.6726,0.9207,,Social Sciences,26.0,27,23,22,22,22,21
+AFAM 1986,Contesting Injustice,Elisabeth Wood,oce,2.6471,2.7647,2.8824,3.0,3.625,0.9315,1.1472,1.4527,0.6325,0.7188,,Social Sciences,20.0,26,17,17,17,16,16
+ECON 4444,Market Inefficiencies and the Limits of Arbitrage,Michael J Pascutti,oce,4.2308,3.9167,3.6667,4.16,3.875,0.9511,1.018,1.0901,0.7461,0.8502,,Social Sciences,32.0,38,26,24,24,25,24
+EVST 3255,Environmental Law and Politics,John Wargo,oce,3.9,4.0,4.1,3.4,3.0,0.9944,0.9428,1.1005,0.5164,0.4714,,Sciences,12.0,16,10,10,10,10,10
+ECON 2125,Microeconomic Theory,Mu Zhang,oce,4.0,4.4118,4.25,4.2353,3.5,0.9701,0.6183,0.8563,0.5623,0.7303,,Social Sciences,19.0,21,18,17,16,17,16
+LING 2630,Semantics I,Simon Charlow,oce,4.25,4.4167,4.0833,3.0417,2.5833,0.794,0.5836,0.7755,0.8065,0.8805,,Social Sciences,25.0,29,24,24,24,24,24
+NSCI 2600,Research Methods in Psychopathology: Psychotic Disorders,Tyrone Cannon,oce,4.4667,4.4667,4.6,3.0,3.0667,0.5164,0.5164,0.5071,0.6547,0.7037,,Social Sciences,16.0,18,15,15,15,15,15
+ECON 2123,Intermediate Data Analysis and Econometrics,Yusuke Narita,oce,3.8462,3.7692,3.6923,3.6923,3.6154,1.1435,1.0127,1.0316,0.6304,0.8697,,Social Sciences,16.0,22,13,13,13,13,13
+ANTH 4883,In Ordinary Fashion,Jane Lynch,oce,4.5,4.625,4.5,3.25,3.0,0.5345,0.5175,0.5345,0.7071,0.7559,,Social Sciences,9.0,15,8,8,8,8,8
+PLSC 3511,AI for Social Science Methods,Daniel Karell,oce,5.0,5.0,5.0,3.5,3.2857,0.0,0.0,0.0,0.7559,0.7559,,Social Sciences,8.0,11,8,8,8,8,7
+CHLD 1250,Child Development,Carla Horwitz; Ann Close,oce,4.6667,4.6,4.6,2.7333,2.8,0.6172,0.5071,0.6325,0.7037,0.7746,,Social Sciences,16.0,16,15,15,15,15,15
+ANTH 3710,Anthropological Theory and the Post Colonial Encounter,Jane Lynch,oce,4.6364,4.7273,4.6364,4.2727,3.5455,0.5045,0.4671,0.5045,0.6467,0.5222,,Social Sciences,11.0,12,11,11,11,11,11
+ANTH 1700,An Introduction to Cultural Anthropology,Yukiko Koga,oce,3.125,3.375,3.625,3.0,2.5,0.6409,0.744,0.9161,0.7559,0.5345,,Social Sciences,8.0,9,8,8,8,8,8
+ECON 2159,Game Theory,Benjamin Polak,oce,4.2604,4.3125,3.4332,3.7927,3.2228,0.853,0.6987,0.967,0.7962,0.705,,Social Sciences,255.0,292,192,192,187,193,193
+ENAS 2170,Disruptive Technologies and Responsible Innovation,Kathryn Guarini,oce,3.7119,3.9386,3.3162,2.4211,2.3017,0.9705,0.8444,1.0141,0.7745,0.7486,,Sciences,156.0,178,118,114,117,114,116
+AMTH 2440,Discrete Mathematics,Ivan Danilenko,oce,3.2909,3.4444,3.463,3.5,3.3148,1.2424,1.0401,1.1111,0.8184,0.6089,,Sciences,61.0,71,55,54,54,54,54
+CPSC 4670,Introduction to Cryptography,Charalampos Papamanthou,oce,4.3333,4.1111,3.6667,3.4444,3.3333,0.866,0.7817,1.2247,0.7265,0.7071,,Sciences,10.0,13,9,9,9,9,9
+ECE 2000,Introduction to Electronics,Jung Han,oce,2.7231,2.9846,3.1538,3.9219,3.3538,1.097,1.1523,1.202,0.8784,0.799,,,82.0,104,65,65,65,64,65
+MATH 1180,Introduction to Functions of Several Variables,Cruz Godar,oce,4.1818,4.7273,4.3636,3.8182,3.1818,0.8739,0.6467,0.5045,0.603,0.4045,,Sciences,11.0,11,11,11,11,11,11
+CPSC 4800,Introduction to Computer Vision,Alex Wong,oce,3.9296,3.971,3.5072,3.3857,2.9286,0.9758,1.0843,1.2558,0.7856,0.7287,,Sciences,91.0,135,71,69,69,70,70
+CPSC 4270,"C++ Programming for Stability, Security, and Speed",Michael Fischer; Jonathan Hochman,oce,2.6923,2.9231,3.0769,2.5385,2.6154,1.3775,1.3205,1.3821,0.7763,0.7679,,Sciences,17.0,23,13,13,13,13,13
+CHEM 1740,Organic Chemistry for First Year Students I,Seth Herzon; Scott Miller,oce,3.2941,3.4118,3.52,4.0408,3.4808,1.1366,1.0616,1.0544,0.7348,0.9391,,Sciences,55.0,62,51,51,50,49,52
+ENAS 1180,"Introduction to Engineering, Innovation, and Design",Lawrence Wilen,oce,4.6316,4.5263,4.5263,3.6316,3.8947,0.4956,0.6118,0.513,0.8307,0.8093,,Sciences,19.0,22,19,19,19,19,19
+NSCI 1600,The Human Brain,Robb Rutledge,oce,3.7857,3.8776,2.875,4.2828,3.81,0.9443,1.0578,1.0488,0.6395,0.8841,,Social Sciences,115.0,129,98,98,96,99,100
+MATH 3800,Algebra,Ivan Loseu,oce,4.5556,4.6667,4.5556,4.4444,4.5556,0.527,0.5,0.527,0.7265,0.527,,Sciences,10.0,11,9,9,9,9,9
+CPSC 4550,Algorithmic Game Theory,Manolis Zampetakis,oce,4.2941,4.2941,4.2353,4.2727,3.7941,0.9384,0.8359,0.7808,0.6742,0.7294,,Sciences,44.0,55,34,34,34,33,34
+MENG 4673,Introduction to Nanomaterials and Nanotechnology,Cong Su,oce,4.625,4.625,4.625,3.375,3.25,0.5175,0.5175,0.744,0.9161,0.7071,,Sciences,9.0,18,8,8,8,8,8
+EEB 2220,General Ecology,David Post; Eric Slessarev,oce,3.4444,3.7222,3.4444,3.4737,3.1579,0.7838,1.0178,0.9218,0.7723,0.6021,,Sciences,21.0,26,18,18,18,19,19
+PHYS 1800,University Physics,Adriane Steinacker,oce,3.9189,4.3014,4.0137,4.1111,4.0411,1.0171,0.8769,1.0068,0.7609,0.696,,Sciences,90.0,122,74,73,73,72,73
+APHY 4480,Solid State Physics I,Yu He,oce,3.6316,3.8421,3.6842,4.0556,4.0,1.1648,1.214,1.1082,0.7254,0.7454,,Sciences,21.0,34,19,19,19,18,19
+CPSC 2010,Introduction to Computer Science,Stephen Slade,oce,2.5315,2.964,2.7455,3.5225,3.6429,1.0429,1.1979,1.1287,0.8929,0.7335,,Sciences,136.0,157,111,111,110,111,112
+CPSC 4900,Senior Project,Sohee Park,oce,3.75,3.9574,3.8478,3.4043,3.4565,1.0,0.9546,0.942,0.7984,0.7805,,Sciences,75.0,93,48,47,46,47,46
+PHYS 0700,"Nuclear Physics: The Good, The Bad, and the Misunderstood",Helen Caines,oce,4.4545,4.2727,4.1818,3.1818,2.5455,0.8202,0.7862,0.7508,0.8739,0.6876,,Sciences,12.0,15,11,11,11,11,11
+PHYS 2060L,Modern Physical Measurement,Matthew Ennis; Steven Konezny; Gaurav Nirala,oce,3.7778,3.7778,4.2105,3.4737,3.7895,0.9428,0.9428,0.9763,1.0203,0.855,,Sciences,25.0,28,18,18,19,19,19
+BENG 4410,Physical and Chemical Basis of Bioimaging and Biosensing,Daniel Coman; Douglas Rothman; Jason Bini,oce,3.5,3.75,3.9167,3.1667,3.0,0.7977,1.2154,0.9962,0.7177,0.8528,,Sciences,15.0,36,12,12,12,12,12
+EPS 2740,Fossil Fuels and World Energy,Michael Oristaglio,oce,3.5667,3.6322,3.3636,2.5909,2.5341,0.9605,0.9538,0.9847,0.8114,0.7263,,,166.0,192,90,87,88,88,88
+MB&B 4490,Medical Impact of Basic Science,Abhijit Patel; Allison Didychuk; Andrew Miranker; Daniel DiMaio; David Schatz; George Miller; Joan Steitz; Sandy Chang,oce,3.9286,4.1429,4.2143,3.4286,2.7857,0.9972,0.8644,0.5789,0.8516,0.5789,,Sciences,15.0,17,14,14,14,14,14
+CPSC 4370,Database Systems,Avi Silberschatz,oce,3.5349,3.6279,3.3023,2.9535,2.5581,1.2602,1.0696,1.319,0.5324,0.5897,,Sciences,47.0,58,43,43,43,43,43
+MCDB 4820,Advanced Seminar in Cell Biology: Intracellular Signal Transduction,Craig Crews,oce,4.9,4.9,4.2,4.125,3.6667,0.3162,0.3162,0.7888,0.6409,1.0,,Sciences,10.0,11,10,10,10,8,9

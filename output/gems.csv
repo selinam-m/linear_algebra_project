@@ -1,0 +1,8 @@
+model,course_code,title,discipline,size_bin,actual_std,predicted_std,residual_std,actual_raw,rule
+oce,SOCY 2009,The Sociological Imagination,social_sciences,seminar,0.5719788123036581,-0.2892631713462076,1.7864885902761045,4.5,top 5%
+oce,ECON 4444,Market Inefficiencies and the Limits of Arbitrage,social_sciences,mid,0.1563602667780517,-0.650956846318748,1.6746313331938332,4.2308,top 5%
+oce,MUSI 2240,The Performance of Early Music,humanities,mid,0.4827653692248905,-0.3188477006369696,1.6627993413133677,4.5625,top 5%
+oce,CPSC 4670,Introduction to Cryptography,stem,seminar,0.8623890593999934,0.06941651912565264,1.6448761468859097,4.3333,top 5%
+coursetable,PLSC 3511,AI for Social Science Methods,social_sciences,seminar,1.9765015733376596,-0.29653426348871054,2.9148357424368565,5.0,residual > 2.0
+coursetable,PHYS 0700,"Nuclear Physics: The Good, The Bad, and the Misunderstood",stem,seminar,1.4445043742363908,-0.6679474996517422,2.708910315634937,4.393939393939394,residual > 2.0
+coursetable,MCDB 4820,Advanced Seminar in Cell Biology: Intracellular Signal Transduction,stem,seminar,2.316614510770486,0.6339280181537769,2.157799121567283,4.80356240981241,residual > 2.0
